@@ -1,0 +1,20 @@
+[
+    {
+        "xAxis": "janeiro",
+        "unidades": "200",
+        "defeitos": "45",
+        "oportunidades": "3"
+    },
+    {
+        "xAxis": "fevereiro",
+        "unidades": "233445",
+        "defeitos": "6",
+        "oportunidades": "3"
+    },
+    {
+        "xAxis": "março",
+        "unidades": "500",
+        "defeitos": "50",
+        "oportunidades": "3"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Copos",
+        "path": "data/reports/copos.json"
+    },{
+        "name": "Pratos",
+        "path": "data/reports/pratos.json"
+    }
+]
